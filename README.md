@@ -5,11 +5,15 @@ ________________________________________________________________________________
 Welcome to my GitHub profile! I am a passionate software developer with expertise in the MERN stack, Java, and Python. Here you'll find a collection of my projects and repositories, showcasing my skills and interests.
 
 -> 🛠️ Skills
+
 .MERN Stack: MongoDB, Express.js, React.js, Node.js
+
 .Java
+
 .Python
 
 ->📫 How to Reach Me
+
 LinkedIn: https://www.linkedin.com/in/shubhendu-bhakat/
 
 Email: kumarsubho2003gmail.com
