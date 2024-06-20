@@ -11,7 +11,9 @@ Welcome to my GitHub profile! I am a passionate software developer with expertis
 
 ->📫 How to Reach Me
 LinkedIn: https://www.linkedin.com/in/shubhendu-bhakat/
+
 Email: kumarsubho2003gmail.com
+
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas! Thank you for visiting my GitHub profile.
 
 <!---
