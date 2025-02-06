@@ -12,6 +12,14 @@ Welcome to my GitHub profile! I am a passionate software developer with expertis
 
 .Python
 
+.React Native
+
+.AWS
+
+.CI CD and Dvops 
+
+.Jenskins
+
 ->📫 How to Reach Me
 
 LinkedIn: https://www.linkedin.com/in/shubhendu-bhakat/
