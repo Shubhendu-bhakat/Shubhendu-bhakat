@@ -1,34 +1,29 @@
-👋 Hello, I'm Shubhendu Bhakat
-______________________________________________________________________________________________________________________________________________________________________________
---> About me:-
-______________________________________________________________________________________________________________________________________________________________________________
-Welcome to my GitHub profile! I am a passionate software developer with expertise in the MERN stack, Java, and Python. Here you'll find a collection of my projects and repositories, showcasing my skills and interests.
+<h1 align="center">Hi 👋, I'm Shubhendu Bhakat</h1>
+<h3 align="center">A passionate Full stack(MERN),React Native devleloper from India</h3>
 
--> 🛠️ Skills
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhendu-bhakat&label=Profile%20views&color=0e75b6&style=flat" alt="shubhendu-bhakat" /> </p>
 
-.MERN Stack: MongoDB, Express.js, React.js, Node.js
+- 🔭 I’m currently working on [legal Awareness App using LLM](https://github.com/Shubhendu-bhakat/SIH-APP)
 
-.Java
+- 🌱 I’m currently learning **Jenkins , Kubernetics**
 
-.Python
+- 👯 I’m looking to collaborate on [LLMs](https://github.com/Shubhendu-bhakat/SIH-APP)
 
-.React Native
+- 👨‍💻 All of my projects are available at [https://shubhenedu.vercel.app/](https://shubhenedu.vercel.app/)
 
-.AWS
+- 📫 How to reach me **kumarsubho2003@gmail.com**
 
-.CI CD and Dvops 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/shubhendu_bhakat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhendu_bhakat" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/shubhendu bhakat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="shubhendu bhakat" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/shubhendu 431" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shubhendu 431" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/shubhendu bhakat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shubhendu bhakat" height="30" width="40" /></a>
+</p>
 
-.Jenskins
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-->📫 How to Reach Me
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhendu-bhakat&show_icons=true&locale=en&layout=compact" alt="shubhendu-bhakat" /></p>
 
-LinkedIn: https://www.linkedin.com/in/shubhendu-bhakat/
-
-Email: kumarsubho2003gmail.com
-
-Feel free to explore my repositories and reach out if you have any questions or collaboration ideas! Thank you for visiting my GitHub profile.
-
-<!---
-Shubhendu-bhakat/Shubhendu-bhakat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhendu-bhakat&" alt="shubhendu-bhakat" /></p>
