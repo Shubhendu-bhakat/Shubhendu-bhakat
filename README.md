@@ -9,8 +9,6 @@
 
 - 👯 I’m looking to collaborate on [LLMs](https://github.com/Shubhendu-bhakat/SIH-APP)
 
-- 👨‍💻 All of my projects are available at [https://shubhenedu.vercel.app/](https://shubhenedu.vercel.app/)
-
 - 📫 How to reach me **kumarsubho2003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
